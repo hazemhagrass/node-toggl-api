@@ -53,6 +53,13 @@
   "tag-update":               {
     "name": "required"
   },
+  "group-create":               {
+    "name": "required",
+    "wid":  "required"
+  },
+  "group-update":               {
+    "name": "required"
+  },
   "task-create":              {
     "name":              "required",
     "pid":               "required",
